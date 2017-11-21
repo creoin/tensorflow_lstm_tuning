@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+.ipynb_checkpoints
+logs
+
+tmp
+tmp.csv
+
+data/spooky_author_identification/processed
+data/spooky_author_identification/
