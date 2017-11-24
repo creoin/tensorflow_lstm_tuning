@@ -2,9 +2,12 @@
 __pycache__/
 .ipynb_checkpoints
 logs
+logs_chatbot
+logs_resume
 
 tmp
 tmp.csv
 
 data/spooky_author_identification/processed
 data/spooky_author_identification/
+data/deepnlp/
